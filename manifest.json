@@ -2,7 +2,7 @@
     "addons": [
         {
             "id": "language_carbon",
-            "version": "0.1",
+            "version": "0.2",
             "mod_version": "3",
             "description": "A syntax highlighter for carbon programming language in lite-xl.",
             "path": "src/highlight.lua"
